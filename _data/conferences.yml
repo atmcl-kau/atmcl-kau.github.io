@@ -1,4 +1,4 @@
-- name: AIAA SciTech 
+- name: AIAA SciTech
   description: AIAA SciTech Forum
   year: 2027
   link: https://scitech.aiaa.org/
@@ -8,35 +8,35 @@
   date: "January 11-15"
   place: Orlando, Florida, USA
 
-- name: AIAA AVIATION 
+- name: AIAA AVIATION
   description: AIAA AVIATION Forum
   year: 2027
   link: https://www.aiaa.org/aviation
   deadline:
     - "2027-02-05 20:00"
   date: "June 2027"
-  place: San diego, California, USA
+  place: San Diego, California, USA
 
-- name: DASC 
+- name: DASC
   description: IEEE/AIAA Digital Avionics Systems Conference
   year: 2026
   link: https://2026.dasconline.org/
   deadline:
     - "2026-03-02 23:59"
-  date: "September 15 - September 17"
+  date: "September 15-17"
   place: Orlando, Florida, USA
 
-- name: ICNS 
+- name: ICNS
   description: Integrated Communications, Navigation and Surveillance Conference
   year: 2027
   link: https://i-cns.org/
   deadline:
-    - "2027-3-2 23:59"
+    - "2027-03-02 23:59"
   comment: Full paper deadline.
   date: "April 2027"
   place: Herndon, Virginia, USA
 
-- name: ATRDS 
+- name: ATRDS
   description: US-Europe Air Transportation Research and Development Symposium
   year: 2027
   link: https://atrds.org/
@@ -46,7 +46,7 @@
   date: "June 2027"
   place: USA
 
-- name: SESAR Innovation Days 
+- name: SESAR Innovation Days
   description: SESAR Innovation Days
   year: 2026
   link: https://www.sesarju.eu/SID2026
@@ -55,16 +55,16 @@
   date: "December 2026"
   place: Ireland
 
-- name: AICAP 
+- name: AICAP
   description: Aviation Innovation Conference for Asia Pacific
   year: 2027
   link: https://event.ntu.edu.sg/AICAP-2027
   deadline:
     - "2026-10-15 23:59"
-  date: "Jan 2027"
+  date: "January 2027"
   place: Singapore
 
-- name: TRB Annual Meeting 
+- name: TRB Annual Meeting
   description: Transportation Research Board Annual Meeting
   year: 2027
   link: https://trb-annual-meeting.nationalacademies.org/
